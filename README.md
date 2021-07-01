@@ -1,3 +1,3 @@
-1. Weather Application using html,css,js
+#1. Weather Application using html,css,js
 
-2.Clock using Js and Css
+#2.Clock using Js and Css
