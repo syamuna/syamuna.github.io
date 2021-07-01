@@ -1,3 +1,3 @@
-# WEATHER APPLICATION USING HTML CSS AND JAVASCRIPT
+1. Weather Application using html,css,js
 
- 
+2.Clock using Js and Css
